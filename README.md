@@ -42,18 +42,13 @@ Quickly focus on specific data segments through slicers.
 KPIs
 Track performance with key financial indicators.
 
-🚀 How to Use
-Clone or download this repository.
-
-Open FinancialSampleOnlineReport.pbix using Power BI Desktop.
-
-Explore the report interactively or customize it based on your own dataset.
-
-Note: The data source is embedded. If you want to update it, use the Transform Data feature in Power BI to point to a different Excel file.
 
 🖼️ Report Preview
+![Dashboard Screenshot](FinancialSampleOnlineReport.png)
+
 
 📜 License
 This project is provided for educational and personal use.
 Feel free to use, modify, and share it!
 
+#PowerBI #DataVisualization #FinancialAnalysis #BusinessIntelligence
