@@ -43,6 +43,6 @@ KPIs
 Track performance with key financial indicators.
 
 
-![Dashboard Screenshot](FinancialSampleReport .png)
+![Dashboard Screenshot](FinancialSampleReport.png)
 
 #PowerBI #DataVisualization #FinancialAnalysis #BusinessIntelligence
