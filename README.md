@@ -43,12 +43,6 @@ KPIs
 Track performance with key financial indicators.
 
 
-🖼️ Report Preview
-![Dashboard Screenshot](FinancialSampleOnlineReport.png)
-
-
-📜 License
-This project is provided for educational and personal use.
-Feel free to use, modify, and share it!
+![Dashboard Screenshot](FinancialSampleReport .png)
 
 #PowerBI #DataVisualization #FinancialAnalysis #BusinessIntelligence
